@@ -1,6 +1,8 @@
 ## Objective
 This project utilizes Docker containers to create a portable development environment for analyzing NYC taxi trip data stored and managed in a PostgreSQL database. The data is ingested using Python scripts and can be further analyzed or visualized with tools like pgAdmin.
 
+![image](https://github.com/esamtronics/Ingesting-NYC-data-to-Postgres/assets/107403255/f63ace8b-db0b-49f1-b25b-c25eeb11e2f8)
+
 > The project is one of DataTalks.club projects
 
 ## The project involves the following processes:
